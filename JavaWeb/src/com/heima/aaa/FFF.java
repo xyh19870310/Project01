@@ -18,6 +18,7 @@ public class FFF {
         System.out.println("a");
         System.out.println("a");
         System.out.println("a");
+        int a = 3;
         System.out.println("a");
         System.out.println("a");
         System.out.println("b");
