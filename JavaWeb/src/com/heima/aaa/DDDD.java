@@ -7,5 +7,11 @@ package com.heima.aaa;
 public class DDDD {
     public static void main(String[] args) {
         System.out.println("dfssdf");
+        System.out.println("dfssdf");
+        System.out.println("dfssdf");
+        System.out.println("dfssdf");
+        System.out.println("dfssdf");
+        System.out.println("dfssdf");
+        System.out.println("dfssdf");
     }
 }
