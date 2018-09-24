@@ -16,6 +16,10 @@ public class FFF {
         System.out.println();
         System.out.println();
         System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
         System.out.println("b");
 
     }
