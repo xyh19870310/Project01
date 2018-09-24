@@ -5,4 +5,5 @@ package com.heima.commitTest;
  * @date 2018/9/24-12:44
  */
 public class CCC {
+    private String a;
 }

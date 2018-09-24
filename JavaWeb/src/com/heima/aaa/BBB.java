@@ -5,4 +5,5 @@ package com.heima.aaa;
  * @date 2018/9/24-12:44
  */
 public class BBB {
+    private String a;
 }
