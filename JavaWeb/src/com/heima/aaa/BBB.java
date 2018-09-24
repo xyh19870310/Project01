@@ -6,4 +6,7 @@ package com.heima.aaa;
  */
 public class BBB {
     private String a;
+    private String b;
+    private String c;
+
 }
